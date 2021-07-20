@@ -1,4 +1,13 @@
-### Hi there 👋
+### Wola! 🥳 You just found Sheey!
+
+- 😲 I’m currently studying in collage as a 2nd grade student.
+- 🔭 I’m currently working at [DaoCloud](https://daocloud.io) as a trainee.
+- 🌱 Currently learning Golang.
+
+## 📫 Where to reach me
+
+- ✈️[Telegram](https://t.me/sheey11)
+- 📝[Blog](https://sheey.moe)
 
 <!--
 **Sheey11/Sheey11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

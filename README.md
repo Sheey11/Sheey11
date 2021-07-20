@@ -4,8 +4,9 @@
 - 🔭 I’m currently working at [DaoCloud](https://daocloud.io) as a trainee.
 - 🌱 Currently learning Golang.
 
-## 📫 Where to reach me
+## Where to reach me
 
+- 📫[Email](mailto:i@sheey.moe)
 - ✈️[Telegram](https://t.me/sheey11)
 - 📝[Blog](https://sheey.moe)
 

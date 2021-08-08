@@ -6,9 +6,9 @@
 
 ## Where to reach me
 
-- 📫[Email](mailto:i@sheey.moe)
-- ✈️[Telegram](https://t.me/sheey11)
-- 📝[Blog](https://sheey.moe)
+- 📫 [Email](mailto:i@sheey.moe)
+- ✈️ [Telegram](https://t.me/sheey11)
+- 📝 [Blog](https://sheey.moe)
 
 <!--
 **Sheey11/Sheey11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

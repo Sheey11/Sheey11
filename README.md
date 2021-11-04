@@ -1,7 +1,6 @@
 ## Wola! 🥳 You just found Sheey!
 
 - 😲 I’m currently studying in collage as a undergraduate 2nd grade student.
-- 🔭 I’m currently working at [Shanghai DaoCloud Co,.Ltd](https://daocloud.io) as a trainee.
 - 🌱 Currently learning Golang.
 
 ## Where to reach me

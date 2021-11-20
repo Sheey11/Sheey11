@@ -1,6 +1,6 @@
 ## Wola! 🥳 You just found Sheey!
 
-- 😲 I’m currently studying in collage as a undergraduate 2nd grade student.
+- 😲 I’m currently studying in collage as a undergraduate 3nd grade student.
 - 🌱 Currently learning Golang.
 
 ## Where to reach me

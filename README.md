@@ -1,7 +1,7 @@
 ## Wola! 🥳 You just found Sheey!
 
 - 😲 I’m currently studying in collage as a undergraduate 3rd grade student.
-- 🌱 Currently learning Golang.
+- 🌱 Currently digging into deep learning, interested in CV, reinforcement learning.
 
 ## Where to reach me
 
@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+n

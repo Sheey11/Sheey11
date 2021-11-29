@@ -11,7 +11,7 @@
 
 ## 关注皮套人我们就是好朋友 / VTubers I Recommanded
 
-- [七海Nana7mi](https://live.bilibili.com/21452505)
+- [七海Nana7mi](https://space.bilibili.com/434334701)
 - [阿梓从小就很可爱](https://space.bilibili.com/7706705)
 - [Hiiro](https://space.bilibili.com/508963009)
 

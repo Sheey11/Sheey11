@@ -9,7 +9,7 @@
 - ✈️ [Telegram](https://t.me/sheey11)
 - 📝 [Blog](https://sheey.moe)
 
-## 关注皮套人我们就是好朋友 / VTuber I Recommanded
+## 关注皮套人我们就是好朋友 / VTubers I Recommanded
 
 - [七海Nana7mi](https://live.bilibili.com/21452505)
 - [阿梓从小就很可爱](https://space.bilibili.com/7706705)

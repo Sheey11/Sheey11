@@ -1,7 +1,7 @@
 ## Wola! 🥳 You just found Sheey!
 
 - 😲 I’m currently studying in collage as a undergraduate 3rd grade student.
-- 🌱 Currently digging into deep learning, interested in CV, reinforcement learning.
+- 🌱 Currently digging into deep learning, interested in CV, [reinforcement learning](https://github.com/Sheey11/rl).
 
 ## Where to reach me
 
